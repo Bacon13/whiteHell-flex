@@ -838,7 +838,6 @@ header .conter-backgrand-2 .conter-item #loge img{
 }
 .contaner-back-graund-2 .conter-15 .conter-imge-text .back-grund-img img{
     border-radius: 4px;
-    width: 100%;
 }
 .contaner-back-graund-2 .conter-15 .conter-imge-text .back-grund-img::before{
     width:100%;
@@ -2014,7 +2013,6 @@ background-color: #e41e2f;
     border-radius: 5px;
     overflow: hidden;
     box-shadow: 0px 10px 10px 0px rgb(0 0 0 / 8%);
-    height: 270px;
     width: 100%;
 }
 .contaner-back-graund-9 .conter-text-imge-5 .parent-imge-text .box-img-text .before-img img{
